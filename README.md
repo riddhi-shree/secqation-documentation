@@ -1,9 +1,42 @@
-# Agenda
+# SecQAtion - Security Tests Automation using Robot Framework
 
-1. [OWASP Top 10](1_owasp_top_10/README.md)
-2. [Standard Security Testing Approach](2_standard_approach/README.md)
-3. [Inconveniences/Gaps](3_inconveniences/README.md)
-4. [Introduction to Robot Framework](4_robotframework/README.md)
-5. [Get Your Hands Dirty](5_practice/README.md)
+## Table of Contents
 
-![Objective](image/DAY-1.png)
+1. [General Understanding of Security Testing Approach](section1/README.md)
+2. [All About Robot Framework](section2/README.md)
+3. [Leveraging Selenium, Docker, Mitmproxy and HTTPolice](section3/README.md)
+4. [Leveraging Jenkins, GitHub and AWS](section4/README.md)
+5. [Understanding Python and Burp Suite](section5/README.md)
+6. [End-to-End Practical Examples](section6/README.md)
+
+## What are we solving?
+
+While doing a security assessment:
+* Get rid of boring manual tasks
+* Make your job fun and productive
+* Ensure consistency and repeatability
+* Generate business friendly test reports
+* Let developers incorporate your tests into their build pipeline
+* Adapt and evolve, quickly and easily
+
+## Scenario 1:
+
+![Basic Flow](image/basicFlow.svg)
+
+---
+
+## Scenario 2:
+
+![Mitmproxy](image/mitmproxy.svg)
+
+---
+
+## Scenario 3:
+
+![Docker](image/docker.svg)
+
+---
+
+## Scenario 4:
+
+![Jenkins and GitHub](image/jenkinsAndGitHub.svg)
