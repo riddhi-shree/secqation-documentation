@@ -1,14 +1,5 @@
 # SecQAtion - Security Tests Automation using Robot Framework
 
-## Table of Contents
-
-1. [General Understanding of Security Testing Approach](section1/README.md)
-2. [All About Robot Framework](section2/README.md)
-3. [Leveraging Selenium, Docker, Mitmproxy and HTTPolice](section3/README.md)
-4. [Leveraging Jenkins, GitHub and AWS](section4/README.md)
-5. [Understanding Python and Burp Suite](section5/README.md)
-6. [End-to-End Practical Examples](section6/README.md)
-
 ## What are we solving?
 
 While doing a security assessment:
@@ -40,3 +31,14 @@ While doing a security assessment:
 ## Scenario 4:
 
 ![Jenkins and GitHub](image/jenkinsAndGitHub.svg)
+
+## Table of Contents
+
+1. [General Understanding of Security Testing Approach](section1/README.md)
+2. [OWASP Top 10](section2/README.md)
+3. [Inconveniences/Gaps](section3/README.md)
+4. [Introduction to Robot Framework](section4/README.md)
+5. [DVWA: Get Your Hands Dirty](section5/README.md)
+6. [Leveraging Selenium, Docker, Mitmproxy and HTTPolice](section6/README.md)
+7. [Leveraging Jenkins, GitHub and AWS](section7/README.md)
+8. [Understanding Python and Burp Suite](section8/README.md)
