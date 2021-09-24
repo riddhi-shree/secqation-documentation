@@ -38,7 +38,19 @@ While doing a security assessment:
 2. [OWASP Top 10](section2/README.md)
 3. [Inconveniences/Gaps](section3/README.md)
 4. [Introduction to Robot Framework](section4/README.md)
-5. [DVWA: Get Your Hands Dirty](section5/README.md)
-6. [Leveraging Selenium, Docker, Mitmproxy and HTTPolice](section6/README.md)
-7. [Leveraging Jenkins, GitHub and AWS](section7/README.md)
-8. [Understanding Python and Burp Suite](section8/README.md)
+5. [Configuring PyCharm](section5/README.md)
+6. [Recommended Folder Structure](section6/README.md)
+7. [Basic Elements of Robot Framework](section7/README.md)
+8. [Exercise: Structured Reconnaisance in <10 min](section8/README.md)
+9. [mitmproxy: Intercepting API Requests & Responses](section9/README.md)
+10. [Pabot: Parallel Processing](section10/README.md)
+11. [Understanding Docker and Docker Compose](section11/README.md)
+12. [Dockerizing Selenium Test Execution Environment](section12/README.md)
+13. [CI/CD Build Pipeline](section13/README.md)
+14. [Serving test report via S3 and CloudFront](section14/README.md)
+15. [Implementing Basic Authentication via Lamda Edge]
+16. [Basics of Python programming]
+17. [Example: Custom Keywords Library]
+18. [Leveraging Selenium, Docker, Mitmproxy and HTTPolice]
+19. [Basics of Burp Suite]
+20. [DVWA: Get Your Hands Dirty](section20/README.md)
