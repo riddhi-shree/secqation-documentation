@@ -78,6 +78,5 @@ Once confirmed, document your findings and share the security report with the co
 # Exercise
 
 1. Go to [defendtheweb.net](https://defendtheweb.net/)
-2. Follow the approach explained above
+2. Follow the approach explained above (Alloted time: **5 minutes**)
 3. Share your findings with us. Explain your approach, any interesting observation, difficulties you faced, issues you found, etc.
-4. Alloted time: **10 minutes**

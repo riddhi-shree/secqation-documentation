@@ -64,8 +64,6 @@ Create a free account on [portswigger.net](https://portswigger.net/users/registe
 
 ## Further Reading
 
-* https://github.com/riddhi-shree/knowledge-sharing/blob/master/Mobile/Android/amazon_cognito_authz_issue/README.md
-* https://github.com/riddhi-shree/knowledge-sharing/blob/master/Mobile/Flutter/README.md
 * https://owasp.org/Top10/
 * https://owasp.org/Top10/A01_2021-Broken_Access_Control/
 * https://portswigger.net/daily-swig/owasp-shakes-up-web-app-threat-categories-with-release-of-draft-top-10
