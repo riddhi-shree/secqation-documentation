@@ -48,9 +48,9 @@ While doing a security assessment:
 12. [Dockerizing Selenium Test Execution Environment](section12/README.md)
 13. [CI/CD Build Pipeline](section13/README.md)
 14. [Serving test report via S3 and CloudFront](section14/README.md)
-15. [Implementing Basic Authentication via Lamda Edge]
-16. [Basics of Python programming]
-17. [Example: Custom Keywords Library]
-18. [Leveraging Selenium, Docker, Mitmproxy and HTTPolice]
-19. [Basics of Burp Suite]
-20. [DVWA: Get Your Hands Dirty](section20/README.md)
+15. [Implementing authentication via Lamda Edge](section15/README.md)
+16. [Leveraging Selenium, Docker, Mitmproxy and HTTPolice]
+17. [DVWA: Get Your Hands Dirty](section20/README.md)
+18. [Basics of Python programming]
+19. [Example: Custom Keywords Library]
+20. [Basics of Burp Suite]

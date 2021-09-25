@@ -370,30 +370,9 @@ Repeat above steps for storing AWS access key ID, AWS secret access key, and any
 
 17. Wait for a while and visit your website at https://www.secqation.xyz to view the updated website contents.
 
-## Alternate Approach using CloudFormation
+## Is there a problem?
 
-1. Login to [AWS console](https://aws.amazon.com/)
-2. Navigate to **CloudFormation** console using following link:
-   [https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=amazon-cloudfront-secure-static-site-templates-main&templateURL=https://s3.amazonaws.com/solution-builders-us-east-1/amazon-cloudfront-secure-static-site/latest/main.yaml](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=amazon-cloudfront-secure-static-site-templates-main&templateURL=https://s3.amazonaws.com/solution-builders-us-east-1/amazon-cloudfront-secure-static-site/latest/main.yaml)
-3. You should see a Create stack page, with pre-populated fields that specify the CloudFormation template. 
-4. Click on **Next** button
-5. On the **Specify stack details** page:
-   1. Enter **SubDomain** value as `www`
-   2. Enter a registered domain name (e.g., `xyz-company.site`) in **DomainName** input field
-6. Click Next until you reach the **Review** page
-7. Check the two boxes in **Capabilities** section
-8. Click on **Create Stack** button
-9. Wait for the CloudFormation stack to launch, until the status changes to **CREATE_COMPLETE**
-10. Configure **Route 53** as the DNS service for your domain
-   1. Go to **Route 53** console
-   2. Click on **Create hosted zone** button
-   3. Enter **Domain name**
-   4. Scroll down and click on **Create hosted zone** button
-   5. If domain was purchased from a different site (not AWS), then configure the **nameservers** accordingly
-11. Access your website (`www.xyz-company.site`)
-12. Navigate to S3 console
-13. Choose the bucket with **s3bucketroot** in its name, not *s3bucketlogs*
-14. Delete the default **S3 content**, and upload new files
+Unauthenticated users can access our sensitive security report...
 
 ## References
 * https://github.com/aws-samples/amazon-cloudfront-secure-static-site#user-content-amazon-cloudfront-secure-static-website
