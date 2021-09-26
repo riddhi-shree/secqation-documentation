@@ -49,7 +49,7 @@ While doing a security assessment:
 13. [CI/CD Build Pipeline](section13/README.md)
 14. [Serving test report via S3 and CloudFront](section14/README.md)
 15. [Implementing authentication via Lamda Edge](section15/README.md)
-16. [Leveraging Selenium, Docker, Mitmproxy and HTTPolice](section16/README.md)
+16. [Leveraging HTTPolice](section16/README.md)
 17. [Basics of Python programming]
 18. [Example: Custom Keywords Library]
 19. [Basics of Burp Suite]
