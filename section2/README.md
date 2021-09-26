@@ -47,7 +47,9 @@
 8. **A08:2021-Software and Data Integrity Failures**: How sure are you about the integrity of the apps or data that you are consuming? Ensure that a software supply chain security tool, such as **OWASP Dependency Check** or **OWASP CycloneDX**, is used to verify that components do not contain known vulnerabilities.
    * [Example: Supply chain attack trojanized SolarWinds Orion business software updates in order to distribute malware](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
 9.  **A09:2021-Security Logging and Monitoring Failures**: When a security-critical event occurs, the software either does not record the event or omits important details about the event when logging it. When security-critical events are not logged properly, such as a failed login attempt, this can make malicious behavior more difficult to detect and may hinder forensic analysis after an attack succeeds. If security critical information is not recorded, there will be no trail for forensic analysis and discovering the cause of problems or the source of attacks may become more difficult or impossible.
-10. https://blog.appsecco.com/server-side-request-forgery-via-html-injection-in-pdf-download-90ee4053e911
+10. **A10:2021-Server-Side Request Forgery**: 
+    * https://blog.appsecco.com/server-side-request-forgery-via-html-injection-in-pdf-download-90ee4053e911
+    * https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
 
 ## Getting Serious?
 
