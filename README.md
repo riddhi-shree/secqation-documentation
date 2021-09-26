@@ -52,5 +52,5 @@ While doing a security assessment:
 16. [Leveraging HTTPolice](section16/README.md)
 17. [Basics of Python programming](section17/README.md)
 18. [Example: Custom Keywords Library](section18/README.md)
-19. [Basics of Burp Suite]
+19. [When and How to Use Burp Suite](section19/README.md)
 20. [DVWA: Get Your Hands Dirty](section20/README.md)
