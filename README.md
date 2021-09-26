@@ -51,6 +51,6 @@ While doing a security assessment:
 15. [Implementing authentication via Lamda Edge](section15/README.md)
 16. [Leveraging HTTPolice](section16/README.md)
 17. [Basics of Python programming](section17/README.md)
-18. [Example: Custom Keywords Library]
+18. [Example: Custom Keywords Library](section18/README.md)
 19. [Basics of Burp Suite]
 20. [DVWA: Get Your Hands Dirty](section20/README.md)
