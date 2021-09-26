@@ -233,3 +233,4 @@ The network traffic sniffed by mitmproxy tool can be filtered and passed as an i
 * https://httpolice.readthedocs.io/en/latest/concepts.html
 * https://httpolice.readthedocs.io/en/latest/quickstart.html#using-mitmproxy
 * https://docs.mitmproxy.org/stable/concepts-filters/
+* https://buildmedia.readthedocs.org/media/pdf/httpolice/0.7.0/httpolice.pdf
