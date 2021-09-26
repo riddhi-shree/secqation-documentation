@@ -1,8 +1,8 @@
 # When and How to Use Burp Suite
 
-1. [General Setup and Tool Overview](files/pre-requisites-attacking-web-apps-using-burp-suite-V0.3.1.pdf)
-2. [Attacking Web Applications using Burp Suite](files/bsides-oct2018-attacking-web-applications-with-burp-suite-v0.2.0.pdf)
-3. [Specific Attack Scenarios](files/c0c0n-burp-suite-for-application-security-testing.pdf)
+1. [General Setup and Tool Overview](https://drive.google.com/file/d/1c92dHP_kbLlS53iRx_kLP7ht3Ayp7hZU/view?usp=sharing)
+2. [Attacking Web Applications using Burp Suite](https://drive.google.com/file/d/1hHDEzC2FCWIeLnmfJA8Adk40kP61Tamp/view?usp=sharing)
+3. [Specific Attack Scenarios](https://drive.google.com/file/d/13D4QGr9z36sQd3pB2K75QiUTalPooBWC/view?usp=sharing)
 
 ## Corresponding VM download links
 
